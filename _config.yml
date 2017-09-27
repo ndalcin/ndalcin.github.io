@@ -1,0 +1,21 @@
+# Site settings
+title: Coding && A Side of Sriracha 
+header-img: img/home-bg.png
+email: dalcin.nicole@gmail.com
+copyright_name: ndalcin
+description: > # this means to ignore newlines until "baseurl:"
+  Life while learning to code through Flatiron's FS Web Dev. Program
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  ndalcin
+learn_profile: ndalcin
+email_username: dalcin.nicole@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
