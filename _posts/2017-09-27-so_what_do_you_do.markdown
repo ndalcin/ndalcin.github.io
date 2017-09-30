@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "'So, what do you do?'"
-date:   2017-09-28 01:09:50 +0000
+date:   2017-09-27 21:09:50 -0400
 ---
 
 I have always hated this question. So, I did what I needed to do to avoid answering it. I have not had the most 'conventional' post-college experience. Right after I graduated from the University of Maryland with a degree in Biology, I decided to use all of the desired knowledge and skills gained through my studies and ... teach... no, not Biology... English... in Asia. 
@@ -20,7 +20,6 @@ While my background in programming is close to nonexistent, I have always been i
 
 I am learning to code because I am excited to learn again. I am learning to code because I want to feel challenged and frustrated, just to experience the feeling of a breakthrough. I am learning to code because I love solving problems in the most efficient and effective way possible. I am learning to code because I am already excited for the day when I can confidently answer my least favorite question with:
 
-### "I work as a Full Stack Web Developer."
+# "I work as a Full Stack Web Developer."
 
 
-**
