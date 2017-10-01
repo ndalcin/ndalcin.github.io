@@ -12,7 +12,8 @@ For my project, I chose to create an application that shows the user a list of f
 The beginning was definitely the hardest part. I am still really new to gems and bundlers, so I struggled a lot at the start. I felt really frustrated because I knew that setting up the applications files wasn't even the main part of the project, yet I was spending a lot of time trying to figure it out. I watched Avi's video demos and utilized them as 'code-alongs' while I attempted to get the right folders and files set up. I started over two times before deciding to just create an application from scratch (without using bundler) and I just ended up writing my own files. Once I had the right structure, I began working on my lib files!
 
 Even though I felt accomplished having set up the project files, I knew that I had a long way to go. For the first time, I had NO instruction whatsoever for how to create modules, classes, methods, etc. I spent a lot of time looking at old labs for guidance. I panicked a few times when I realized that I couldn't use the Ask A Question feature to get help with this project. There were times that I thought to myself,
-### **"What am I doing? I am not ready for this. Why did Flatiron think that I was ready to create something ON MY OWN?!"** 
+
+**"What am I doing? I am not ready for this. Why did Flatiron think that I was ready to create something ON MY OWN?!"** 
 
 Even though I had this thought pretty often, I kept pushing. Everytime I didn't know what to do next, I talked about it outloud. I would go over the process in simple terms and then think about how to apply that to my code. I did this every step of the way. 
 
