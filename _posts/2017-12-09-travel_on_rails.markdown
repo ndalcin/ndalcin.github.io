@@ -2,6 +2,7 @@
 layout: post
 title:  "Travel on Rails"
 date:   2017-12-09 21:09:50 -0400
+permalink:  travel_on_rails
 ---
 
 
