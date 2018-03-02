@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Travel On Rails w/ jQuery"
-date:       2018-01-20 18:54:24 +0000
+title:      "The one with Rails AND jQuery"
+date:       2018-01-20 13:54:25 -0500
 permalink:  travel_on_rails_w_jquery
 ---
 
