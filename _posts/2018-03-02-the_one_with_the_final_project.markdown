@@ -92,6 +92,8 @@ Finally, we utilize this.props.types in our render function to create select opt
         return <option key={index} value={type.id}>{type.name}</option>
       });
     }
+```
+```
 		<select
 				required
 				type="select"
