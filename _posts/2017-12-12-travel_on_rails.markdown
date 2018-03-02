@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Travel On Rails"
-date:       2017-12-12 20:46:31 +0000
+title:      "The one with the First Rails Project"
+date:       2017-12-12 15:46:31 -0500
 permalink:  travel_on_rails
 ---
 
