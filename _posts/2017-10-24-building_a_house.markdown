@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The one with the Sinatra Project"
+title:      "The One with the Sinatra Project"
 date:       2017-10-24 19:15:02 -0400
 permalink:  building_a_house
 ---
