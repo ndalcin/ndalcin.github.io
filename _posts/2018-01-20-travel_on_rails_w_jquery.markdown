@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The one with Rails AND jQuery"
+title:      "The One with Rails AND jQuery"
 date:       2018-01-20 13:54:25 -0500
 permalink:  travel_on_rails_w_jquery
 ---
