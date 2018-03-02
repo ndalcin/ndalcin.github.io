@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Learning to get 'unstuck':: CLI Data Gem Project"
-date:   2017-09-30 10:31:24 -0400
+title:      "The one with the CLI Project"
+date:       2017-09-30 10:31:24 -0400
+permalink:  learning_to_get_unstuck_cli_data_gem_project
 ---
 
 
