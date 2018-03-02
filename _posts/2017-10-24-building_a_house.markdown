@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Building a house"
-date:       2017-10-24 23:15:02 +0000
+title:      "The one with the Sinatra Project"
+date:       2017-10-24 19:15:02 -0400
 permalink:  building_a_house
 ---
 
