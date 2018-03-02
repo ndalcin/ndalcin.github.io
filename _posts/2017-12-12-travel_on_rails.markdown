@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The one with the First Rails Project"
+title:      "The One with the First Rails Project"
 date:       2017-12-12 15:46:31 -0500
 permalink:  travel_on_rails
 ---
