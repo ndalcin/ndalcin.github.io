@@ -93,8 +93,9 @@ Finally, we utilize this.props.types in our render function to create select opt
       });
     }
 ```
+
 ```
-		<select
+	<select
 				required
 				type="select"
 				name="type_id"
@@ -102,9 +103,8 @@ Finally, we utilize this.props.types in our render function to create select opt
 				onChange={this.handleOnChange}>
 				<option defaultValue>Select Type...</option>
 				{typesForSelect}
-   </select>
-	 ```
-	 
+  </select>
+```	 
 
 Thanks for reading! YAY Redux!
 								
