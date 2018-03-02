@@ -92,16 +92,14 @@ Finally, we utilize this.props.types in our render function to create select opt
         return <option key={index} value={type.id}>{type.name}</option>
       });
     }
-		......
-		
 		<select
-								required
-								type="select"
-								name="type_id"
-								className="form-select"
-								onChange={this.handleOnChange}>
-								<option defaultValue>Select Type...</option>
-								{typesForSelect}
+				required
+				type="select"
+				name="type_id"
+				className="form-select"
+				onChange={this.handleOnChange}>
+				<option defaultValue>Select Type...</option>
+				{typesForSelect}
    </select>
 	 ```
 	 
